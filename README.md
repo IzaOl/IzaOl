@@ -1,4 +1,4 @@
-My name is Izabela Olszewska. I would like to take my first steps in  IT. I would like to join your team. I don't have commercial experince. 
+My name is Izabela Olszewska. I would like to take my first steps in  IT. I would like to join your team.
 I know a lot of  tools and I have technical skills. I know  the difference between functional and non-functional testing , 
 white-box and black-box testing and know what regression testing is.  
  
